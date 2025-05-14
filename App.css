@@ -1,0 +1,12 @@
+/* Valeur avec un mot-clé */
+text-size-adjust: none;
+text-size-adjust: auto;
+
+/* Valeurs proportionnelles */
+text-size-adjust: 80%;
+
+/* Valeurs globales */
+text-size-adjust: inherit;
+text-size-adjust: initial;
+text-size-adjust: unset;
+
